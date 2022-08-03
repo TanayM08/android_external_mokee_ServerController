@@ -471,6 +471,22 @@
     "display": "5.0 inch, Full HD 1080p; Corning® Gorilla® Glass",
     "cpuarch": "arm64"
   },
+  "hotdog": {
+    "cpu": "Qualcomm® Snapdragon™ 855+",
+    "ram": "8GB/12GB  of LP-DDR4X",
+    "rom": "256GB",
+    "battery": "4085 mAh",
+    "display": "6.67 inch, 1440 x 3120 pixel(516ppi)",
+    "cpuarch": "arm64"
+  },
+  "hotdogb": {
+    "cpu": "Qualcomm® Snapdragon™ 855+",
+    "ram": "8GB  of LP-DDR4X",
+    "rom": "128GB/256GB",
+    "battery": "3800 mAh",
+    "display": "6.55 inch, 1080 x 2400 pixel(402ppi)",
+    "cpuarch": "arm64"
+  },
   "hydrogen": {
     "cpu": "Qualcomm® Snapdragon™ 650",
     "ram": "3GB/4GB",
