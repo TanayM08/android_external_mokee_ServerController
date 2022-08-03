@@ -87,6 +87,8 @@
   { "model": "guacamoleb", "name": "7", "brand": "OnePlus", "android": "11.0" },
   { "model": "gucci", "name": "Note 1S", "brand": "Redmi", "android": "10.0" },
   { "model": "h3gduoschn", "name": "Galaxy Note 3 (China DualSIM,SM-N9002)", "brand": "Samsung", "android": "8.1" },
+  { "model": "hotdog", "name": "7t pro", "brand": "OnePlus", "android": "11.0" },
+  { "model": "hotdogb", "name": "7t", "brand": "OnePlus", "android": "11.0" },
   { "model": "h811", "name": "G4 (T-Mobile)", "brand": "LG", "android": "7.1" },
   { "model": "h815", "name": "G4 (Intl)", "brand": "LG", "android": "7.1" },
   { "model": "h830", "name": "G5 (T-Mobile)", "brand": "LG", "android": "7.1" },
